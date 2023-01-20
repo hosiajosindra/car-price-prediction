@@ -8,7 +8,7 @@ The idea is to predict car prices using processed data and form several models u
 #### -- Project Status: [Completed]
 
 ### Getting Started
-1. You can access the raw data [here](https://github.com/hosiajosindra/heart-attack-classification/blob/main/heart.csv) within this repo.
-2. All of the scripts are being kept [here](https://github.com/hosiajosindra/heart-attack-classification/blob/main/heartattack.ipynb).
+1. You can access the raw data [here](https://github.com/hosiajosindra/car-price-prediction/blob/main/CarPrice.csv) within this repo.
+2. All of the scripts are being kept [here](https://github.com/hosiajosindra/car-price-prediction/blob/main/car-price-prediction.ipynb).
 
-#### I hope this will be useful someday, thankyou for seeing !👌🏻
+#### I hope this will be useful someday, thankyou for seeing !✌🏻
